@@ -32,11 +32,11 @@ pip install pandas numpy scikit-learn
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/DakaBhai/Iris_Flower_Classification/tree/main>
+   git clone https://github.com/DakaBhai/Iris_Flower_Classification/tree/main
    ```
 2. Navigate to the project directory:
    ```bash
-   cd <Iris_Flower_Classification>
+   cd Iris_Flower_Classification
    ```
 3. Ensure `iris.csv` is in the project directory.
 4. Open the Jupyter notebook:
